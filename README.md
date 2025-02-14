@@ -3,8 +3,11 @@ A responsive recipe app built with React and Tailwind CSS, integrated with the S
 
 🚀 Features
 ✅ Search Recipes – Find recipes by ingredients or meal type
+
 ✅ Filter Recipes – Use dropdowns to filter by diet type, meal type, or calories
+
 ✅ Save Favorites – Store and retrieve favorite recipes using local storage
+
 ✅ Mobile-Friendly – Fully responsive design for seamless use on any device
 
 🛠 Tech Stack
