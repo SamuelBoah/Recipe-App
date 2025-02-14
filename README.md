@@ -1,5 +1,7 @@
 🍽 Recipe Finder App
+
 A responsive recipe app built with React and Tailwind CSS, integrated with the Spoonacular API. It allows users to search for recipes by ingredients and meal type, filter results by diet type, meal type, or calories, and save their favorite recipes using local storage.
+
 
 🚀 Features
 
@@ -11,7 +13,11 @@ A responsive recipe app built with React and Tailwind CSS, integrated with the S
 
 ✅ Mobile-Friendly – Fully responsive design for seamless use on any device
 
+
 🛠 Tech Stack
+
 React – Component-based UI
+
 Tailwind CSS – Utility-first styling
+
 Spoonacular API – Recipe data source
